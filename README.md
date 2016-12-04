@@ -1,4 +1,4 @@
 route666
 ========
 
-Balancing dns server like amazon's route66
+Balancing dns server with live-checks support
