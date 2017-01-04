@@ -50,6 +50,8 @@ Now supports:
 * `http_any_response` - Server responded any answer on given url
 * `http_200_response` - Server responded http 200 on given url
 
+Adding your checks is very easy if you python-developer. See `methods` package for examples.
+
 ## Run
 Run via sudo because we need to bind port 53.
 
