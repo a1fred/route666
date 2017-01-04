@@ -10,6 +10,11 @@ Build on the python's `threading` module.
 $ git clone git@github.com:a1fred/route666.git
 ```
 
+# Dependencies
+* Linux-like OS
+* python2.7, maybe earlier
+No additional python libraries needed.
+
 ## Configure
 Configuration stored in `./pool.json`.
 Example configuration:
