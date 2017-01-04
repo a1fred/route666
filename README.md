@@ -2,7 +2,7 @@
 Dns server with round-robin and health-check support.  
 Running periodic async service health-checks to answer only alive service addresses.
 
-Build on the python's `threading` module.
+Async checks worker using python's `threading` module.
 
 # How to use
 ## Clone repository
