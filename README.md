@@ -1,6 +1,6 @@
 # About
-Dns server with round-robin support. 
-Running periodic async services health-checks to answer only alive service addresses.
+Dns server with round-robin and health-check support.  
+Running periodic async service health-checks to answer only alive service addresses.
 
 Build on the python's `threading` module.
 
